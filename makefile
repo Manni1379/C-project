@@ -5,26 +5,25 @@ main.o: main.c
 	gcc -c main.o
 
 big2.o: big2.c
-        gcc -c big2.o
+	gcc -c big2.o
 
 big3.o: big3.c
-        gcc -c big3.o
+	gcc -c big3.o
 
 fact.o: fact.c
-        gcc -c fact.o
+	gcc -c fact.o
 
 pall.o: pall.c
-        gcc -c pall.o
+	gcc -c pall.o
 
 sum2.o: sum2.c
-        gcc -c sum2.o
+	gcc -c sum2.o
 
 fib.o: fib.c
-        gcc -c fib.o
+	gcc -c fib.o
 
 sort.o: sort.c
-        gcc -c sort.o
+	gcc -c sort.o
 
 rev.o: rev.c
-        gcc -c rev.o
-
+	gcc -c rev.o
